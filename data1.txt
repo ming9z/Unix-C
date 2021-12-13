@@ -1,0 +1,4 @@
+The file contains
+data1.txt
+midterm
+test
